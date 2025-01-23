@@ -6,7 +6,7 @@ Learning React and next/\.
 
 
 
-sachin and himansh.
+sachin and himanshu.
 
 
 nextjs karo...
